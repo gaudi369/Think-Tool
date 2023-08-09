@@ -3,8 +3,6 @@ import tkinter as tk
 from tkinter import scrolledtext, filedialog
 from datetime import datetime
 
-#   my key = "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"
-
 start_times = {}
 total_times = {
     "analyst_output": 0,
