@@ -1,8 +1,0 @@
-To set this up:
-
-Dependencies:
-openai
-tkinter (usually comes with python)
-
-Other:
-Open AI api_key
